@@ -1,0 +1,31 @@
+{
+  "имя": "discord.js-героку",
+  "версия": "1.0.0",
+  "описание": "Подробное руководство по развертыванию вашего Discord.js бот на Героку",
+  "главное": "index.js",
+  "двигатели": {
+    "узел": "8.x",
+    "npm": "*"
+  },
+  "сценарии": {
+    "тест": "эхо"Ошибка: не указантест "& & выход 1",
+    "старт": "узел index.js"
+  },
+  "хранилище": {
+    "тип": "мерзавец",
+    "url": "git+https://github.com/synicalsyntax/discord.js-heroku.git"
+  },
+  "ключевые слова": [
+    "героку",
+    "discord.js"
+  ],
+  "автор": "synicalsyntax",
+  "license": "MIT",
+  "жучки": {
+    "url": "https://github.com/synicalsyntax/discord.js-heroku/issues"
+  },
+  "домашняя страница": "https://github.com/synicalsyntax/discord.js-heroku#readme",
+  "зависимости": {
+    "discord.js": "^11.3.0"
+  }
+}
