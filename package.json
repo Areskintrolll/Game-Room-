@@ -1,31 +1,31 @@
 {
-  "имя": "discord.js-героку",
-  "версия": "1.0.0",
-  "описание": "Подробное руководство по развертыванию вашего Discord.js бот на Героку",
-  "главное": "index.js",
-  "двигатели": {
-    "узел": "8.x",
+  "name": "discord.js-heroku",
+  "version": "1.0.0",
+  "description": "An in-depth guide on deploying your Discord.js bot on Heroku",
+  "main": "index.js",
+  "engines": {
+    "node": "8.x",
     "npm": "*"
   },
-  "сценарии": {
-    "тест": "эхо"Ошибка: не указантест "& & выход 1",
-    "старт": "узел index.js"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
-  "хранилище": {
-    "тип": "мерзавец",
+  "repository": {
+    "type": "git",
     "url": "git+https://github.com/synicalsyntax/discord.js-heroku.git"
   },
-  "ключевые слова": [
-    "героку",
+  "keywords": [
+    "heroku",
     "discord.js"
   ],
-  "автор": "synicalsyntax",
+  "author": "synicalsyntax",
   "license": "MIT",
-  "жучки": {
+  "bugs": {
     "url": "https://github.com/synicalsyntax/discord.js-heroku/issues"
   },
-  "домашняя страница": "https://github.com/synicalsyntax/discord.js-heroku#readme",
-  "зависимости": {
+  "homepage": "https://github.com/synicalsyntax/discord.js-heroku#readme",
+  "dependencies": {
     "discord.js": "^11.3.0"
   }
 }
